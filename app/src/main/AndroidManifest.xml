@@ -25,7 +25,7 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".TheWall"
-            android:label="The Wall"
+            android:label="Kalpana"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

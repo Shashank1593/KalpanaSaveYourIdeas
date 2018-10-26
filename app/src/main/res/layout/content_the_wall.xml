@@ -8,6 +8,16 @@
     tools:context=".TheWall"
     tools:showIn="@layout/activity_the_wall"
     >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="The Wall"
+        android:textColor="@color/colorAccent"
+        android:textSize="30dp"
+        android:textStyle="bold|italic" />
     
 
 </android.support.constraint.ConstraintLayout>
